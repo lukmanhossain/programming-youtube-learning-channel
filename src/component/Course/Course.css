@@ -1,0 +1,26 @@
+.courses-container{
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+   
+}
+.title{
+    text-align: center;
+}
+.course-container{
+    width: 100%;
+    border-right: 1px solid lightgrey;
+    margin-right: 700px;
+    margin-left: 130px;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr); 
+}
+.card-design{
+    background-color: rgb(208, 243, 243);
+    width: 75%;
+    margin-bottom: 20px;
+    margin-top: 15px;
+    border: 5px solid gray;
+    border-radius: 5px;
+   
+}

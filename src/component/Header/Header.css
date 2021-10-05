@@ -1,0 +1,44 @@
+.header{
+    width: 90%;
+    margin-top: 20px;
+    margin:15px 0px 0px 82px;
+    height: 100px;
+    background-color: rgba(35, 37, 37, 0.096);
+    display: flex;
+    
+}
+/* .course-name{
+    width: 25%;
+    margin:0px 0px 0px 10px;
+
+} */
+/* .logo{
+
+    height: 50px;
+    width: 25%;
+
+} */
+.header img{
+    width: 200px;
+    margin:5px;  
+}
+.menu-bar {
+    /* width: 75%; */
+    /* justify-content: space-between; */
+}
+
+.menu-bar nav a{
+    
+    text-decoration: none;
+    color: black;
+    /* margin-right: 20px; */
+    padding: 120px;
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.menu-bar nav a:hover{
+    background-color: white;
+}
